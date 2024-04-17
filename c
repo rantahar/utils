@@ -6,6 +6,5 @@ import sys
 import os
 
 code = ' '.join(sys.argv[1:])
-print(code)
 
 print(eval(code))
